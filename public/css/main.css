@@ -21,6 +21,7 @@ body {
     background: #201F1F;
     width: min(500px, 80%);
     padding: 60px;
+    margin: 2rem 0;
     border-radius: 10px;
 }
 
